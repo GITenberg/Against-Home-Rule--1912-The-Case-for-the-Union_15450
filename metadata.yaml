@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6065'
     url: http://www.gutenberg.org/2009/agents/6065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15450#Against-Home-Rule--1912-The-Case-for-the-Union
 gutenberg_issued: '2005-03-24'
 gutenberg_type: Text
 identifiers:
